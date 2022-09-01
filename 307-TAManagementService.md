@@ -6,5 +6,6 @@ It has different databases for classes, TAs, TA reviews, and users. It allows re
 By Pierce Pesant & Michael Quinsey
 
 Pre-set credentials to log in (if you don't want to make your own:            
-USERNAME - "god" PASSWORD - "god" \n
+USERNAME - "god" PASSWORD - "god"
+
 USERNAME - "pierce" PASSWORD - "password" 
